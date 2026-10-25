@@ -5,8 +5,8 @@ combinados, store compartilhada, indicadores, persistência, rotas, edição e r
 
 ## Identificação
 
-- **Integrante:** _[seu nome completo]_ (atividade individual)
-- **Turma / disciplina:** _[preencher]_
+- **Integrante:** Paulo Gustavo Campos de Siqueira
+- **Turma / disciplina:** Vue
 
 ## Tecnologia escolhida
 
